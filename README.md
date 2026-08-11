@@ -1,4 +1,8 @@
-# Marklet Releases
+<div align="center">
+
+# Marklet
+
+A lightweight native macOS Markdown editor.
 
 [![Downloads](https://img.shields.io/github/downloads/wakmail/Marklet/total?label=downloads&color=brightgreen)](https://github.com/wakmail/Marklet/releases)
 [![Latest Release](https://img.shields.io/github/v/release/wakmail/Marklet?label=release&color=blue)](https://github.com/wakmail/Marklet/releases/latest)
@@ -6,7 +10,9 @@
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://swift.org)
 [![License](https://img.shields.io/github/license/wakmail/Marklet?color=brightgreen)](LICENSE)
 
-Downloads and auto-update feed for **Marklet**, a lightweight native macOS Markdown editor.
+</div>
+
+Downloads and auto-update feed for **Marklet**.
 
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
 - Marklet checks this repository's release assets (`appcast.xml`) for updates automatically via Sparkle.
