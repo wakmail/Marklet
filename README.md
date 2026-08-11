@@ -2,8 +2,6 @@
 
 [![Downloads](https://img.shields.io/github/downloads/wakmail/Marklet/total?label=downloads&color=brightgreen)](https://github.com/wakmail/Marklet/releases)
 [![Latest Release](https://img.shields.io/github/v/release/wakmail/Marklet?label=release&color=blue)](https://github.com/wakmail/Marklet/releases/latest)
-[![Release Date](https://img.shields.io/github/release-date/wakmail/Marklet?label=updated)](https://github.com/wakmail/Marklet/releases)
-[![Stars](https://img.shields.io/github/stars/wakmail/Marklet?color=yellow)](https://github.com/wakmail/Marklet/stargazers)
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?logo=apple&logoColor=white)](https://apps.apple.com/app/id6791297358)
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://swift.org)
 [![License](https://img.shields.io/github/license/wakmail/Marklet?color=brightgreen)](LICENSE)
