@@ -6,6 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/wakmail/Marklet?color=yellow)](https://github.com/wakmail/Marklet/stargazers)
 ![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+[![License](https://img.shields.io/github/license/wakmail/Marklet?color=brightgreen)](LICENSE)
 
 Downloads and auto-update feed for **Marklet**, a lightweight native macOS Markdown editor.
 
