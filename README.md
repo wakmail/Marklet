@@ -19,4 +19,6 @@ Downloads and auto-update feed for **Marklet**.
 
 The source code lives in a private repository.
 
+<div align="center">
 [getmarklet.com](https://getmarklet.com)
+</div>
