@@ -15,6 +15,6 @@ A lightweight native macOS Markdown editor.
 Downloads and auto-update feed for **Marklet**.
 
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
-- Marklet checks this repository's release assets (`appcast.xml`) for updates automatically via Sparkle.
+- Marklet checks this repository's for updates automatically via Sparkle.
 
 The source code lives in a private repository.
