@@ -18,3 +18,5 @@ Downloads and auto-update feed for **Marklet**.
 - Marklet checks this repository's for updates automatically via Sparkle.
 
 The source code lives in a private repository.
+
+[getmarklet.com](https://getmarklet.com)
