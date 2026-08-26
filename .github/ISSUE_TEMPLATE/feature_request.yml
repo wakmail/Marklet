@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest something Marklet should do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do
+      description: Describe the writing you are doing and where Marklet gets in the way. The problem matters more than the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you have in mind
+      description: Optional. If you already picture how it should work, say so.
+  - type: textarea
+    id: elsewhere
+    attributes:
+      label: How other editors handle it
+      description: Optional. Obsidian, iA Writer, Typora, Bear, anything relevant.

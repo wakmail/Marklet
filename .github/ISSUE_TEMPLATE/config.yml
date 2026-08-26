@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support and general questions
+    url: https://getmarklet.com/support.html
+    about: Licensing, purchases, and anything that is not a bug in the app.
+  - name: Report a security problem
+    url: https://github.com/wakmail/Marklet/security/policy
+    about: Please report vulnerabilities privately rather than in a public issue.

@@ -1,0 +1,62 @@
+name: Bug report
+description: Something in Marklet behaves wrongly
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. If this is a security problem, please do not file it here.
+        Follow SECURITY.md instead so it stays private.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What did you see, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a document with ...
+        2. Type ...
+        3. The table ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Marklet version
+      description: Marklet menu, then About Marklet.
+      placeholder: "1.3"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "15.5"
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: Where did you get Marklet
+      options:
+        - Direct download from getmarklet.com
+        - Mac App Store
+        - Built it myself
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: Sample document
+      description: If a particular document triggers it, paste the smallest piece that still does.
+      render: markdown
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots, a screen recording, or a crash report if you have one.
