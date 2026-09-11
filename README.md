@@ -17,6 +17,10 @@ Downloads and the open source parsing core for **Marklet**.
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
 - The direct download version checks for updates through Sparkle.
 
+![Marklet app window showing a sample note in its current theme](media/marklet-window.png)
+
+*The Marklet app. The standalone core demo is shown below.*
+
 ## Open source core
 
 Marklet’s Markdown parsing core is open source under GPLv3 with the additional
