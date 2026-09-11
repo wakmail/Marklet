@@ -28,6 +28,10 @@ It exposes source ranges for emphasis, code, math, tables, and front matter, plu
 basic native text rendering with configurable fonts and colors.
 See [CORE.md](CORE.md) for usage, scope, and attribution.
 
+![Native core demo showing Markdown source and styled text](media/core-demo.png)
+
+Try the [native demo](Examples/CoreDemo): edit Markdown and switch text palettes.
+
 Requires Swift 6.1 and macOS 14 or later. Run `swift test` to build and test the core.
 
 
