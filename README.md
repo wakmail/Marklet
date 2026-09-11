@@ -24,7 +24,8 @@ permission in [LICENSE.additional-terms](LICENSE.additional-terms). The full app
 and its editor remain in a private repository.
 
 The core is a standalone Swift package with no external package dependencies.
-It exposes source ranges for emphasis, code, math, tables, and front matter.
+It exposes source ranges for emphasis, code, math, tables, and front matter, plus
+basic native text rendering with configurable fonts and colors.
 See [CORE.md](CORE.md) for usage, scope, and attribution.
 
 Requires Swift 6.1 and macOS 14 or later. Run `swift test` to build and test the core.
