@@ -1,0 +1,42 @@
+# Additional License Terms
+
+An additional permission under GNU GPL version 3 section 7
+
+Marklet is licensed under the GNU General Public License version 3, the full
+text of which is in the file LICENSE. As permitted by section 7 of that
+license, the copyright holders grant the following additional permission.
+
+You may convey Marklet, or a work based on Marklet, through an application
+store or any similar distribution channel, and you may accept the operator's
+terms for doing so, even where those terms impose conditions on end users that
+sections 6 or 12 of the License would otherwise not permit. Examples of such
+conditions include limits on the number of devices a user may install on,
+restrictions on copying or redistribution by the user, and digital rights
+management applied by the operator.
+
+This permission applies only to the act of distributing through such a channel.
+It does not reduce any other obligation the License imposes on you. In
+particular, you must still make the complete corresponding source code of the
+version you distributed available under the terms of the License, and you must
+still pass this same additional permission on to anyone who receives the work
+from you.
+
+If you modify Marklet, you may keep this additional permission or remove it
+from your modified version, as section 7 allows. Removing it does not affect
+anyone else's copy.
+
+Why this exists
+
+Some application stores, Apple's included, require distributors to accept terms
+that restrict what end users may do with the software. Those restrictions
+conflict with the GNU GPL, which is why software under a plain GPL has been
+removed from such stores in the past. This permission resolves that conflict for
+Marklet, so the program can be offered both as free software and through a store,
+without the store's terms placing anyone in violation of the License.
+
+Note
+
+This text was prepared by the project, not by a lawyer. It is written to be
+clear rather than clever, and it grants a permission rather than taking one
+away, which is the direction section 7 is designed for. Anyone relying on it
+for something consequential should have it reviewed.

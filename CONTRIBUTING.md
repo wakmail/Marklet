@@ -1,7 +1,8 @@
 # Contributing
 
-Marklet is developed in a private repository by one person, so it is not open to outside pull requests at the
-moment. That may change later. In the meantime there are still useful ways to help.
+Marklet’s parsing core is open source in this repository. The full app is developed
+privately by one person. Bug reports, feature ideas, and contributions to the core
+are welcome. For substantial code changes, get in touch first so we can agree on scope.
 
 ## What helps most right now
 
@@ -22,7 +23,7 @@ evening on something already half written, or on something that will not fit whe
 * Keep each commit to one concern, and write commit messages in plain words.
 * No dashes anywhere in prose, documentation, or user facing strings. Not em dashes, not en dashes, not hyphens.
   Rephrase instead. Code and identifiers are exempt.
-* Update Docs/CHANGELOG.md when behaviour changes.
+* Describe behavior changes and validation in your pull request.
 * Match the surrounding code: same naming, same comment density, same idioms.
 
 ## Code of conduct

@@ -1,0 +1,19 @@
+{
+  "sourceRevision": "4de3d47a39825fed8de08bc06ea016738e2083b0",
+  "files": {
+    "Sources/Marklet/Parsing/MarkdownParser.swift": "635a0536839ba5d76f0c928be7276bf70dd50de5bb3909bfbff385aed8e7ae08",
+    "Sources/Marklet/Parsing/MarkdownHTMLParser.swift": "2fde27080c94ccff0c79eb120abb573cf03630a3d9dacfb34b43bdc96bb8a757",
+    "Sources/Marklet/Parsing/MarkdownEmphasisParser.swift": "74b0d517dccd6837a1d8df2097dcd05164503ab91d673b308c0d09ad5a2062be",
+    "Sources/Marklet/Parsing/MarkdownFootnoteParser.swift": "f2a0d21897b850f4a9c6cc9081859f8b6d6691a401f5180d7d8b76215253838c",
+    "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "LICENSE.additional-terms": "c8a5ff0740bfc68293ca30f054b32d3634351a068f11d139357d42c16c5cdf2e"
+  },
+  "sourceFiles": {
+    "Sources/Marklet/Parsing/MarkdownParser.swift": "e57dca89957880c735bc99eabac52a6304ddf0ee100cfc3ec24eb5f1d0863fba",
+    "Sources/Marklet/Parsing/MarkdownHTMLParser.swift": "2fde27080c94ccff0c79eb120abb573cf03630a3d9dacfb34b43bdc96bb8a757",
+    "Sources/Marklet/Parsing/MarkdownEmphasisParser.swift": "74b0d517dccd6837a1d8df2097dcd05164503ab91d673b308c0d09ad5a2062be",
+    "Sources/Marklet/Parsing/MarkdownFootnoteParser.swift": "f2a0d21897b850f4a9c6cc9081859f8b6d6691a401f5180d7d8b76215253838c",
+    "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "LICENSE.additional-terms": "c8a5ff0740bfc68293ca30f054b32d3634351a068f11d139357d42c16c5cdf2e"
+  }
+}
