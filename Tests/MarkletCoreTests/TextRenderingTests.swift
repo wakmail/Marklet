@@ -34,4 +34,26 @@ struct TextRenderingTests {
         #expect(text.string == "🪴 *literal* café")
         #expect(NSFontManager.shared.traits(of: font(text, "café")).contains(.boldFontMask))
     }
+    @Test func inlineCodeProtectsLiteralSyntax() throws {
+        let text = try MarkdownTextRenderer().render("Before `**literal**` after")
+        #expect(text.string == "Before **literal** after")
+        #expect(font(text, "literal").isFixedPitch)
+        #expect(!NSFontManager.shared.traits(of: font(text, "literal")).contains(.boldFontMask))
+        let codeIndex = (text.string as NSString).range(of: "literal").location
+        let bodyIndex = (text.string as NSString).range(of: "after").location
+        #expect(text.attribute(.backgroundColor, at: codeIndex, effectiveRange: nil) != nil)
+        #expect(text.attribute(.backgroundColor, at: bodyIndex, effectiveRange: nil) == nil)
+    }
+
+    @Test func fencedAndIndentedCode() throws {
+        let renderer = MarkdownTextRenderer()
+        let fenced = try renderer.render("```swift\n# **literal**\nlet x = 1\n```\n\nBody")
+        #expect(!fenced.string.contains("```"))
+        #expect(fenced.string.contains("# **literal**\nlet x = 1"))
+        #expect(font(fenced, "literal").isFixedPitch)
+        #expect(font(fenced, "literal").pointSize == font(fenced, "Body").pointSize)
+        let indented = try renderer.render("    let x = 1")
+        #expect(font(indented, "let").isFixedPitch)
+    }
+
 }

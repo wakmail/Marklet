@@ -17,8 +17,10 @@ public struct MarkdownTextRenderer {
             if let identity = block?.identity { previousBlock = identity }
             var attributes = bodyAttributes
             var font = NSFont.systemFont(ofSize: 16)
+            var codeBlock = false
             if let components = run.presentationIntent?.components {
                 for component in components {
+                    if case .codeBlock = component.kind { codeBlock = true }
                     if case .header(let level) = component.kind {
                         let scale = [2.0, 1.6, 1.35, 1.2, 1.1, 1.0][min(5, max(0, level - 1))]
                         font = NSFont.boldSystemFont(ofSize: 16 * scale)
@@ -31,6 +33,10 @@ public struct MarkdownTextRenderer {
             }
             if intent.contains(.emphasized) {
                 font = NSFontManager.shared.convert(font, toHaveTrait: .italicFontMask)
+            }
+            if codeBlock || intent.contains(.code) {
+                font = NSFont.monospacedSystemFont(ofSize: 16, weight: .regular)
+                attributes[.backgroundColor] = NSColor.quaternaryLabelColor
             }
             attributes[.font] = font
             if let link = run.link { attributes[.link] = link }
