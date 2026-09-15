@@ -17,9 +17,36 @@ Downloads and the open source parsing core for **Marklet**.
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
 - The direct download version checks for updates through Sparkle.
 
-![Marklet app window showing a sample note in its current theme](media/marklet-window.png)
+## Make it yours
 
-*The Marklet app. The standalone core demo is shown below.*
+Write with live formatting, edit tables in place, and choose a theme that feels right.
+
+[![Marklet in Nord showing a weekly plan with an editable table and checklist](media/screenshots/02-nord-tables.png)](media/screenshots/02-nord-tables.png)
+
+*Nord, with two editing mode controls and the floating formatting toolbar.*
+
+<table>
+  <tr>
+    <td><a href="media/screenshots/03-catppuccin-light.png"><img src="media/screenshots/03-catppuccin-light.png" alt="Marklet in Catppuccin Latte with formatted notes and a highlighted sentence" width="460"></a></td>
+    <td><a href="media/screenshots/05-dracula-code.png"><img src="media/screenshots/05-dracula-code.png" alt="Marklet in Dracula with a syntax highlighted Swift code block" width="460"></a></td>
+  </tr>
+  <tr>
+    <td align="center">Catppuccin Latte</td>
+    <td align="center">Dracula</td>
+  </tr>
+</table>
+
+Find [Nord](https://github.com/insanum/obsidian_nord), [Catppuccin](https://github.com/catppuccin/obsidian), and [Dracula](https://github.com/dracula/obsidian) in Marklet's community theme browser. Preview their supported colors before choosing a theme.
+
+[More screenshots: Marklet Warm, Catppuccin Mocha math, and Paper reading](media/screenshots)
+
+## Quick thoughts with Scraps
+
+Keep a floating notepad close by for ideas, reminders, and small checklists. Enable Scraps in Settings when you want it. Your notes stay in Markdown files.
+
+[![A floating Scraps panel beside a Marklet planning document, both using Nord](media/screenshots/07-scraps.png)](media/screenshots/07-scraps.png)
+
+These screenshots show the full Marklet app. The standalone open source core demo is below.
 
 ## Open source core
 
