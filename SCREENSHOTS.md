@@ -4,7 +4,7 @@ Full window captures of Marklet, with different themes and writing styles. Selec
 
 ## Marklet Warm
 
-Warm paper colors with purple and teal accents, live formatting, highlights, and checklists.
+Marklet Warm is based on the Primary theme, with warm paper colors and purple and teal accents. Shown here with live formatting, highlights, and checklists.
 
 [![Marklet Warm showing formatted writing and a checklist](media/screenshots/01-warm-writing.png)](media/screenshots/01-warm-writing.png)
 
