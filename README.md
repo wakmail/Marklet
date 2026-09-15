@@ -38,13 +38,13 @@ Write with live formatting, edit tables in place, and choose a theme that feels 
 
 Find [Nord](https://github.com/insanum/obsidian_nord), [Catppuccin](https://github.com/catppuccin/obsidian), and [Dracula](https://github.com/dracula/obsidian) in Marklet's community theme browser. Preview their supported colors before choosing a theme.
 
-[More screenshots: Marklet Warm, Catppuccin Mocha math, and Paper reading](media/screenshots)
+[More screenshots: Marklet Warm, Catppuccin Mocha math, and Paper reading](SCREENSHOTS.md)
 
 ## Quick thoughts with Scraps
 
 Keep a floating notepad close by for ideas, reminders, and small checklists. Enable Scraps in Settings when you want it. Your notes stay in Markdown files.
 
-[![A floating Scraps panel beside a Marklet planning document, both using Nord](media/screenshots/07-scraps.png)](media/screenshots/07-scraps.png)
+<a href="media/screenshots/08-scraps-panel.png"><img src="media/screenshots/08-scraps-panel.png" alt="The standalone Scraps panel in Nord with a short note and checklist" width="520"></a>
 
 These screenshots show the full Marklet app. The standalone open source core demo is below.
 
