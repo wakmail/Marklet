@@ -2,12 +2,6 @@
 
 Full window captures of Marklet, with different themes and writing styles. Select an image to see it at full size.
 
-## Marklet Warm
-
-Marklet Warm is based on the Primary theme, with warm paper colors and purple and teal accents. Shown here with live formatting, highlights, and checklists.
-
-[![Marklet Warm showing formatted writing and a checklist](media/screenshots/01-warm-writing.png)](media/screenshots/01-warm-writing.png)
-
 ## Catppuccin Mocha math
 
 Display equations and inline LaTeX in Catppuccin's dark Mocha palette.

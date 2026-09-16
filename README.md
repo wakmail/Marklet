@@ -38,7 +38,13 @@ Write with live formatting, edit tables in place, and choose a theme that feels 
 
 Find [Nord](https://github.com/insanum/obsidian_nord), [Catppuccin](https://github.com/catppuccin/obsidian), and [Dracula](https://github.com/dracula/obsidian) in Marklet's community theme browser. Preview their supported colors before choosing a theme.
 
-[More screenshots: Marklet Warm, Catppuccin Mocha math, and Paper reading](SCREENSHOTS.md)
+### Marklet Warm
+
+Marklet Warm is based on the Primary theme, with warm paper colors and purple and teal accents.
+
+[![Marklet Warm showing formatted writing, highlights, and a checklist](media/screenshots/01-warm-writing.png)](media/screenshots/01-warm-writing.png)
+
+[More screenshots: Catppuccin Mocha math and Paper reading](SCREENSHOTS.md)
 
 ## Quick thoughts with Scraps
 
