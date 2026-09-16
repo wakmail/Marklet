@@ -21,9 +21,9 @@ Downloads and the open source parsing core for **Marklet**.
 
 Write with live formatting, edit tables in place, and choose a theme that feels right.
 
-[![Marklet in Nord showing a weekly plan with an editable table and checklist](media/screenshots/02-nord-tables.png)](media/screenshots/02-nord-tables.png)
+Marklet Warm is based on the Primary theme, with warm paper colors and purple and teal accents.
 
-*Nord, with two editing mode controls and the floating formatting toolbar.*
+[![Marklet Warm showing formatted writing, highlights, and a checklist](media/screenshots/01-warm-writing.png)](media/screenshots/01-warm-writing.png)
 
 <table>
   <tr>
@@ -38,11 +38,11 @@ Write with live formatting, edit tables in place, and choose a theme that feels 
 
 Find [Nord](https://github.com/insanum/obsidian_nord), [Catppuccin](https://github.com/catppuccin/obsidian), and [Dracula](https://github.com/dracula/obsidian) in Marklet's community theme browser. Preview their supported colors before choosing a theme.
 
-### Marklet Warm
+### Nord
 
-Marklet Warm is based on the Primary theme, with warm paper colors and purple and teal accents.
+[![Marklet in Nord showing a weekly plan with an editable table and checklist](media/screenshots/02-nord-tables.png)](media/screenshots/02-nord-tables.png)
 
-[![Marklet Warm showing formatted writing, highlights, and a checklist](media/screenshots/01-warm-writing.png)](media/screenshots/01-warm-writing.png)
+*Nord, with two editing mode controls and the floating formatting toolbar.*
 
 [More screenshots: Catppuccin Mocha math and Paper reading](SCREENSHOTS.md)
 
