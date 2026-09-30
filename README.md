@@ -58,7 +58,7 @@ These screenshots show the full Marklet app. The standalone open source core dem
 
 Marklet’s Markdown parsing core is open source under GPLv3 with the additional
 permission in [LICENSE.additional-terms](LICENSE.additional-terms). The full app
-and its editor remain in a private repository.
+and its editor remain in a private repository for now.
 
 The core is a standalone Swift package with no external package dependencies.
 It exposes source ranges for emphasis, code, math, tables, and front matter, plus
