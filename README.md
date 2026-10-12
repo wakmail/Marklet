@@ -15,7 +15,13 @@ A lightweight native macOS Markdown editor.
 Downloads and the open source parsing core for **Marklet**.
 
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
-- The direct download version checks for updates through Sparkle.
+- Or install it with [Homebrew](https://brew.sh):
+
+  ```bash
+  brew install --cask wakmail/tap/marklet
+  ```
+
+- The direct download version checks for updates through Sparkle, so there is no need to run `brew upgrade` for it.
 
 ## Make it yours
 
