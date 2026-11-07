@@ -12,6 +12,10 @@ A lightweight native macOS Markdown editor.
 
 </div>
 
+
+https://github.com/user-attachments/assets/2008b1f5-53e2-44de-a7aa-01f2db08edd7
+
+
 Downloads and the open source parsing core for **Marklet**.
 
 - Grab the latest version from the [Releases page](https://github.com/wakmail/Marklet/releases/latest).
