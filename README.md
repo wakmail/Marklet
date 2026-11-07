@@ -10,10 +10,9 @@ A lightweight native macOS Markdown editor.
 [![Platform](https://img.shields.io/badge/macOS-14%2B%20Apple%20Silicon%20%26%20Intel-black?logo=apple&logoColor=white)](https://apps.apple.com/app/id6791297358)
 [![License](https://img.shields.io/github/license/wakmail/Marklet?color=brightgreen)](LICENSE)
 
-</div>
-
-
 https://github.com/user-attachments/assets/2008b1f5-53e2-44de-a7aa-01f2db08edd7
+
+</div>
 
 
 Downloads and the open source parsing core for **Marklet**.
